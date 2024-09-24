@@ -1,2 +1,2 @@
 # plastic-memories
-My First Repo
+My First Repository
